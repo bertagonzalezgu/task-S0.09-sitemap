@@ -4,11 +4,11 @@ Resumen de la estructura de navegación formado por categorias y subcategorias.
 Secciones:
 1. Productos
 Listado con nombre, precio, foto y nota.
-- Subcategoria: 
+Subcategoria: 
 - Ficha de producto: Detalles técnicos, opiniones y sugerencias relacionadas.
 
 2. Categorías
-- Subcategorias:
+Subcategorias:
 - Móviles, ordenadores y accesorios.
 
 3. Cesta
